@@ -1,0 +1,9 @@
+{
+  "name": "Acme Inventory",
+  "slug": "acme-inventory",
+  "features": {
+    "multiLocation": true,
+    "batchTracking": false,
+    "serialTracking": false
+  }
+}
